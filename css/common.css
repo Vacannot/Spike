@@ -1,0 +1,62 @@
+/* Commonly used css attributes in their own class for easier
+and faster coding, names are selfexplanatory */
+
+.flex {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.absolute {
+    display: absolute;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.justifycenter {
+    justify-content: center;
+}
+
+.aligncenter {
+    align-items: center;
+}
+
+.SmallText {
+    font-size: smaller;
+}
+
+.MediumText {
+    font-size: small;
+}
+
+.spacearound {
+    justify-content: space-around;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.blacktext {
+    color: black;
+}
+
+.whitetext {
+    color: white;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.listnone {
+    list-style: none;
+}
+
+.littlemargin {
+    margin-top: 1.5rem;
+}
