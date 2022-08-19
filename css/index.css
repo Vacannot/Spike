@@ -11,10 +11,6 @@ body {
     font-family: "Work Sans", sans-serif;
 }
 
-.header {
-
-    }
-
 .black-box {
     background-color: black;
     width: 80%;
@@ -158,7 +154,6 @@ footer{
 
 .gallery {
     width: 100%;
-    transistion: right (0.3s);
 }
 
 }
