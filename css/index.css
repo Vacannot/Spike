@@ -49,6 +49,12 @@ body {
     margin-top: 4rem;
 }
 
+.smaller {
+    max-width: 300px;
+    max-height: auto;
+    margin-bottom: 2rem;
+}
+
 .white-triangle {
     width: 0; 
     height: 0; 
